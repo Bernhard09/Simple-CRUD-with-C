@@ -1,0 +1,49 @@
+Program CRUD(Create, Read, Update, Delete)
+------------------------------------------
+programm ini dibuat dengan kemapuan untuk : 
+1. Membuat semacam informasi ke dalam file,
+2. Membaca informasi dari dalam file,
+3. Mengupdate atau memperbarui informasi dalam file,
+4. dan Menghapus informasi dari file.
+------------------------------------------
+Seperti apa Programnya?
+saya akan membuat program tentang manajemen perpustakaan sederhana
+yang mampu untuk menambahkan informasi buku, membaca informasi buku,
+memperbarui informasi buku, dan Menghapus informasi buku.
+-------------------------------------------
+Apa yang dibutuhkan?
+Bahasa pemrograman yang akan saya pakai adalah C language, 
+dengan memanfaatkan tools di dalamnya seperti file pointer untuk
+merujuk address file di memory komputer, fungsi fopen untuk membuka file
+fprintf untuk menulis ke dalam file dan fscanf untuk membaca file dan lain sebagainya.
+-------------------------------------------
+Step-by-stepnya seperti apa?
+1. Saya akan memulai dengan membuat menu terlebih dahulu
+   menu ini akan memuat opsi pilihan yang dapat diambil user
+   seperti: Add Books, Read Books, Update Books, dan Delete Books
+
+   contoh:  
+    ======================
+    MANAJEMEN PERPUSTAKAAN
+    ======================  
+
+    1. Tambah Informasi
+    ----------------------
+    2. Baca Informasi
+    ----------------------
+    3. Perbarui Informasi 
+    ----------------------
+    4. Hapus Informasi
+    ----------------------
+    5. Keluar
+      
+
+
+2. Saya akan membuat algoritma program untuk Add books dan read books terlebih dahulu
+   
+
+
+
+
+
+
